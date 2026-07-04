@@ -1,0 +1,17 @@
+# Credentials & Environment Settings
+.env
+
+# Python Caches & Virtual Envs
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Local Database & Large Data Storage
+*.db
+*.csv
+*.xlsx
